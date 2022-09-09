@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\s3\dist_of_3D\bin\Debug\net6.0\dist_of_3D.exe
+C:\GeekBrains\С#\s3\dist_of_3D\bin\Debug\net6.0\dist_of_3D.deps.json
+C:\GeekBrains\С#\s3\dist_of_3D\bin\Debug\net6.0\dist_of_3D.runtimeconfig.json
+C:\GeekBrains\С#\s3\dist_of_3D\bin\Debug\net6.0\dist_of_3D.dll
+C:\GeekBrains\С#\s3\dist_of_3D\bin\Debug\net6.0\dist_of_3D.pdb
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.AssemblyInfo.cs
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.dll
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\refint\dist_of_3D.dll
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.pdb
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\dist_of_3D.genruntimeconfig.cache
+C:\GeekBrains\С#\s3\dist_of_3D\obj\Debug\net6.0\ref\dist_of_3D.dll
